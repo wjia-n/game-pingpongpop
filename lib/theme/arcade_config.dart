@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'pingpongpoplollipop',
   tip2Id: 'pingpongpopcandy',
-  tip1Label: '💛 Buy me a lollipop',
-  tip2Label: '💛 Buy me a candy',
+  tip1Label: '💛 Ping Pong Pop lollipop',
+  tip2Label: '💛 Ping Pong Pop candy',
 );
